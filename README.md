@@ -1,4 +1,4 @@
-### Hi there 👋
+### Most cordial greetings! 👋
 
 <!--
 **ritwikrajsaxena/ritwikrajsaxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalnia&color=351c75&size=42&lines=Hi,+there!;I+am+Raj,;+a+software+engineer!)
+###
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&color=351c75&size=28&lines=Hi,+there!;I+am+Raj,+a+software+engineer.)
+
+
+
